@@ -80,6 +80,46 @@ Frontend UI (HTML/CSS/JS)
 - Influences future recommendations
 
 ---
+🧠 Endee Vector Database Integration
+📌 Overview
+
+This project leverages Endee as the core vector database to enable high-performance semantic search within the Retrieval-Augmented Generation (RAG) pipeline.
+
+Endee is responsible for storing, indexing, and retrieving dense vector embeddings generated from textual data, allowing the system to perform context-aware document retrieval instead of traditional keyword-based search.
+
+⚙️ Why Endee?
+
+The choice of Endee as the vector database is driven by its:
+
+🚀 High-performance ANN search using HNSW (Hierarchical Navigable Small World graphs)
+
+⚡ Low-latency retrieval for large-scale embedding datasets
+
+🔍 Cosine similarity-based semantic matching
+
+🧩 Metadata filtering support for structured queries
+
+🛠️ Lightweight local deployment (runs on localhost:8080)
+
+🏗️ Production-ready architecture optimized for CPU instructions (AVX2/AVX512)
+
+🧱 Role in RAG Pipeline
+
+Endee acts as the retrieval backbone in the RAG architecture:
+
+User Query
+   ↓
+Embedding Model (Sentence Transformer)
+   ↓
+Vector Representation (384-dim)
+   ↓
+Endee Vector Database
+   ↓
+Top-K Similar Documents (Cosine Similarity)
+   ↓
+“Endee enables this system to move beyond generic AI responses by grounding outputs in real, domain-specific knowledge through efficient vector retrieval.”
+
+---
 
 # 🔥 Features
 
