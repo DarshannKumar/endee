@@ -119,6 +119,23 @@ Top-K Similar Documents (Cosine Similarity)
    ↓
 “Endee enables this system to move beyond generic AI responses by grounding outputs in real, domain-specific knowledge through efficient vector retrieval.”
 
+🔗 Integration in This Project
+
+Endee is integrated via a custom wrapper:
+
+endee_client.py → Handles connection & operations
+
+ingest.py → Pushes embeddings into Endee
+
+rag_pipeline.py → Queries Endee for relevant context
+
+🖥️ Running Endee Locally
+git clone https://github.com/endee-io/endee.git
+cd endee
+chmod +x ./install.sh ./run.sh
+./install.sh --release --avx2
+./run.sh
+
 ---
 
 # 🔥 Features
