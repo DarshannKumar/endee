@@ -3,6 +3,14 @@
 An AI-powered food recommendation system built using vector embeddings, personalization, and conversational AI. This project simulates a real-world intelligent recommendation engine with mood-based suggestions, chatbot interaction, and dynamic coupon generation.
 
 ---
+## 📸 Screenshots
+
+### Web UI
+![Smart Food AI UI](./assets/Screenshot 2026-03-17 125022.png)
+![Smart Food AI UI](./assets/Screenshot 2026-03-17 125039.png)
+
+### Chatbot Demo
+![Chat Demo](./assets/Screen Recording 2026-03-17 125832.mp4)
 
 #  Problem Statement
 
