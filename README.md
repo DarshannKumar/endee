@@ -1,3 +1,6 @@
+**⚠️ This repository is a fork of Endee. **
+All custom implementation (RAG system, AI features, frontend/backend integration) is developed by me.
+
 # Smart Food AI – Personalized Recommendation Assistant 
 
 An AI-powered food recommendation system built using vector embeddings, personalization, and conversational AI. This project simulates a real-world intelligent recommendation engine with mood-based suggestions, chatbot interaction, and dynamic coupon generation.
