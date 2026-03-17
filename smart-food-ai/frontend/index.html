@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Smart AI Food</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>🍔 Smart Food AI</h1>
+
+<input id="searchInput" placeholder="Search food..." />
+<button onclick="searchFood()">Search</button>
+
+<h3>🎭 Mood</h3>
+<button onclick="moodFood('happy')">Happy</button>
+<button onclick="moodFood('sad')">Sad</button>
+
+<h3>💬 Chatbot</h3>
+<input id="chatInput" placeholder="Talk to AI..." />
+<button onclick="chatAI()">Send</button>
+
+<h3>📜 Order History</h3>
+<button onclick="getHistory()">Show History</button>
+
+<div id="results"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
