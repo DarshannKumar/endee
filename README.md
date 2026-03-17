@@ -6,11 +6,11 @@ An AI-powered food recommendation system built using vector embeddings, personal
 ## 📸 Screenshots
 
 ### Web UI
-![Smart Food AI UI](./assets/Screenshot 2026-03-17 125022.png)
-![Smart Food AI UI](./assets/Screenshot 2026-03-17 125039.png)
+![Smart Food AI UI](./assets/Screenshot-2026-03-17-125039.png)
+![Smart Food AI UI](./assets/Screenshot-2026-03-17-125040.png)
 
 ### Chatbot Demo
-![Chat Demo](./assets/Screen Recording 2026-03-17 125832.mp4)
+![Chat Demo](./assets/Screen-Recording-2026-03-17-125832.mp4)
 
 #  Problem Statement
 
