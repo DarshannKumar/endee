@@ -157,19 +157,6 @@ Suggestion: Chocolate Cake 🍫
 
 ---
 
----
-
-# 🛠️ Tech Stack
-
-| Layer            | Technology |
-|------------------|-----------|
-| Backend API      | Flask |
-| AI Model         | Sentence Transformers (all-MiniLM-L6-v2) |
-| Vector Search    | Cosine Similarity (Upgradeable to FAISS) |
-| Frontend         | HTML, CSS, JavaScript |
-| Language         | Python 3 |
-
----
 
 
 # 🚀 Setup & Run
