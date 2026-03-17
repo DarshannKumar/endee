@@ -186,7 +186,7 @@ Suggestion: Chocolate Cake 🍫
 | Frontend         | HTML, CSS, JavaScript |
 | Language         | Python 3 |
 
----
+
 
 
 # 🚀 Setup & Run
