@@ -1,4 +1,4 @@
-**⚠️ This repository is a fork of Endee. **
+# ⚠️ This repository is a fork of Endee.
 All custom implementation (RAG system, AI features, frontend/backend integration) is developed by me.
 
 # Smart Food AI – Personalized Recommendation Assistant 
